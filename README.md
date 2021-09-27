@@ -116,13 +116,13 @@ https://hype4.academy/tools/glassmorphism-generator <br>
 https://neumorphism.io/#e0e0e0 <br>
 https://cubic-bezier.com/ <br>
 https://animista.net/ <br>
-https://freefrontend.com/css-background-patterns/ <br>
+https://freefrontend.com/css-background-patterns/ (patrones de fondo CSS)<br><br>
 
 ## Generador de Loaders de CSS
 Estos son algunos sitios para poder generar Loaders a partir de CSS.
 
 https://loading.io/css/ <br>
-https://projects.lukehaas.me/css-loaders/ (patrones de fondo CSS)<br>
+https://projects.lukehaas.me/css-loaders/ <br>
 
 ## Sass
 https://www.sassmeister.com/ <br>
