@@ -201,7 +201,7 @@ http://omdbapi.com/ (api de peliculas)<br>
 https://pokeapi.co/ (api de pokemon)<br>
 https://developer.edamam.com/edamam-recipe-api-demo (alimentos y calorias)<br>
 
-## Más recursos
+## Más recursos 
 https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html <br>
 https://blog.logrocket.com/7-popular-icon-libraries-you-can-use-for-free/ <br>
 https://www.shopify.com/partners/blog/79940998-15-funny-lorem-ipsum-generators-to-shake-up-your-design-mockups <br>
