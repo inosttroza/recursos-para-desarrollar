@@ -72,6 +72,7 @@ https://feathericons.com/ <br>
 https://www.iconfinder.com/ <br>
 https://feathericons.com/ <br>
 https://commons.wikimedia.org/wiki/Main_Page <br>
+https://boxicons.com/ <br>
 
 ## Diferenciadores de Textos
 https://www.diffchecker.com/ <br>
